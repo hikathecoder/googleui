@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+width: 920px;
+margin-left: 775px;
+}
+
+.box {
+width: 1720px;
+height: 70px;
+background-color: #EEEEEE; column-span: 3;
+margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.search {
+    margin-left: 700px;
+}
+
+.btn {
+    width: 104.94px;
+    height: 21px;
+    padding: 1.5px 1px;
+    border: 1px solid rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 150px;
+}
+.btn2 {
+    padding: 1.5px 1px;
+    border: 1px solid rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 120px;
+}
